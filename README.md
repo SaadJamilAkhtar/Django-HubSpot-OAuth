@@ -1,6 +1,6 @@
 # HubSpot OAuth with Django
 ## Description:
-The purpose of the project is to implement Mailchimp OAuth with django application.
+The purpose of the project is to implement HubSpot OAuth with django application.
 
 ## Pre reqs:
 1. Python
